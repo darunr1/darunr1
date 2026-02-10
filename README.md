@@ -1,16 +1,16 @@
-## Hi there 👋
+## About Me
+Hello! I'm Darun, a passionate developer with experience in building meaningful applications. I aim to use technology to solve real-world problems and enhance user experiences.
 
-<!--
-**darunr1/darunr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- **Languages:** JavaScript, Python, HTML, CSS, C++, & C
+- **Frameworks:** React & Node.js
+- **Tools:** VSCode, Git, Figma, ChatGPT, & Claude Code
 
-Here are some ideas to get you started:
+## Contact Information
+Feel free to reach out to me at:
+- **Email:** darunramalingamcollege@gmail.com
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/darun-ramalingam-1676b9289/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Thank you for visiting my GitHub profile!
