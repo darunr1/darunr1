@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 Computer Engineering Student @ UTA<br>📫 Contact Me: dxr2311@mavs.uta.edu or darunramalingamcollege@gmail.com<br>🎯 I'm currently working on algorithmic trading systems & automating workflows at scale<br>💻 Undergraduate Research Assistant @ UTA Department of Computer Science & Engineering</p>
+<p align="left">📚 Computer Engineering Sophomore @ UTA<br>📫 Contact Me: dxr2311@mavs.uta.edu or darunramalingamcollege@gmail.com<br>🎯 I'm currently working on algorithmic trading systems & automating workflows at scale<br>💻 Undergraduate Research Assistant @ UTA Department of Computer Science & Engineering</p>
 
 ###
 
