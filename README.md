@@ -1,5 +1,7 @@
 <h1 align="left">Hey, I'm Darun ✌️</h1>
 
+<p align="left"><br>🙌 Open to Summer 2026 Tech Internships</p>
+
 ###
 
 <h2 align="left">About Me:</h2>
