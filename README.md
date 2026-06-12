@@ -1,6 +1,6 @@
 <h1 align="left">Hey, I'm Darun ✌️</h1>
 
-<p align="left">📚 Computer Engineering Junior @ UTA<br>📫 Contact Me: dxr2311@mavs.uta.edu or darunramalingamcollege@gmail.com<br>🎯 I'm currently working on algorithmic trading systems & building dynamic pricing agents<br>💻 Undergraduate Research Assistant @ UTA Department of Computer Science & Engineering</p>
+<p align="left">📚 Computer Engineering Sophomore @ UTD<br>📫 Contact Me: darunramalingamcollege@gmail.com<br>🎯 I'm currently building dynamic pricing agents for SMBs<br>💻 Software Engineering Intern @ Fintech-Based Stealth Startup</p>
 
 ###
 
