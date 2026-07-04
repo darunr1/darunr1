@@ -1,6 +1,6 @@
 <h1 align="left">Hey, I'm Darun ✌️</h1>
 
-<p align="left">📚 Computer Engineering Sophomore @ UTD<br>📫 Contact Me: darunramalingamcollege@gmail.com<br>🎯 I'm currently building dynamic pricing agents for SMBs<br>💻 Software Engineering Intern @ Fintech-Based Stealth Startup</p>
+<p align="left">📚 Computer Engineering Sophomore @ UTD<br>💻 Mechatronics Engineering Intern @ FloLabs R&D<br>🎯 Building embedded systems for robotics and hardware validation<br>📫 Open to research, internships, and project collaborations: dal055948@utdallas.edu</p>
 
 ###
 
