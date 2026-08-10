@@ -2,7 +2,7 @@
 
 <p align="left">
 📚 Computer Engineering Sophomore @ UTD<br>
-💻 Mechatronics Engineering Intern @ FloLabs R&D<br>
+💻 Robotics Engineering Intern @ FloLabs R&D<br>
 🎯 Building embedded systems for robotics and hardware validation<br>
 📫 Open to research, internships, and project collaborations: dal055948@utdallas.edu
 </p>
