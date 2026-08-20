@@ -2,8 +2,8 @@
 
 <p align="left">
 📚 Computer Engineering Sophomore @ UTD<br>
-💻 Robotics Engineering Intern @ FloLabs R&D<br>
-🎯 Building embedded systems for robotics and hardware validation<br>
+💻 Semiconductor Process Modeling Research Assistant @ Georgia Tech<br>
+🎯 Currently building embedded systems for robotics and hardware validation<br>
 📫 Open to research, internships, and project collaborations: dal055948@utdallas.edu
 </p>
 
