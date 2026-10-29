@@ -2,6 +2,7 @@
 
 <p align="left">
 📚 Computer Engineering Sophomore @ UTD<br>
+⚡ Firmware Engineer (Electric Vehicle) @ Dallas Formula Racing<br>
 💻 Semiconductor Process Modeling Research Assistant @ Georgia Tech<br>
 🎯 Currently building embedded systems for robotics and hardware validation<br>
 📫 Open to research, internships, and project collaborations: dal055948@utdallas.edu
